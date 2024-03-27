@@ -1,0 +1,26 @@
+Element and Component?
+Class Component over a Function Component?
+state in React? ,props in React?
+conditional expressions? rendering 
+ref forwardRef
+controlled components?,  uncontrolled components?
+createElement and cloneElement?
+Lifting State Up in React?
+component lifecycle?
+Higher-Order Components?
+context?
+children prop?, prop drilling 
+fragments, key, ref props
+Reactnng imkoniyatlari va ustunliklari 
+error boundaries
+virtual DOM
+keylarni indexlashdan maqsad nima va bu tog'rimi 
+Reactda eventlar 
+state batching nima 
+How to focus an input element on page load
+flux arxitekturasi nima va qanday ishlaydi 
+mapStateToProps() and mapDispatchToProps()
+ I dispatch an action in reducer?
+React context va React Redux? farqlari 
+reduxda Store,Components Containers Actions Reducers vazifalari 
+qanday qilib svg ni reactda componenta sifatida ishlatish mumkin
